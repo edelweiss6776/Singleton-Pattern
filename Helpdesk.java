@@ -1,8 +1,8 @@
-package SingletonPattern;
+
 
 import java.util.Scanner;
 
-public class HelpDeskStation
+public class Helpdesk
 {
     public static void main(String[] args)
     {
